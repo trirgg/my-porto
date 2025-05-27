@@ -25,7 +25,7 @@ export default function ProjectsSection() {
           <div>Coming Soon</div>
         </MotionWrapper>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {projects.map((project, index) => (
             <MotionWrapper key={project.title} delay={index * 0.2}>
               <GlassCard className="group overflow-hidden dark:border-purple-500/10 h-full flex flex-col">
@@ -66,7 +66,7 @@ export default function ProjectsSection() {
               </GlassCard>
             </MotionWrapper>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   );
