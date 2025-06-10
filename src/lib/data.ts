@@ -21,7 +21,7 @@ export const workExperience = [
   {
     company: "PT Kaldu Sari Nabati Indonesia",
     location: "Majalengka Jawa Barat",
-    position: "Software Engineer",
+    position: "Helper Operator Produksi",
     period: "Mei 2021 - Mei 2022",
     achievements: [
       "Membantu operator dalam mengoperasikan mesin extruder dan cutting, memastikan kelancaran proses produksi sesuai SOP.",
